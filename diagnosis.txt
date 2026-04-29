@@ -1,0 +1,29 @@
+CATEGORY: diagnose
+Engine overheating is a serious problem that must be addressed immediately. Common causes include: low coolant level (check and refill with the correct coolant mixture), a faulty thermostat (stuck closed, preventing coolant flow), a blocked or leaking radiator, a broken water pump, a blown head gasket (look for white smoke from exhaust), or a failing cooling fan. If the temperature gauge is in the red zone, pull over safely, turn off the engine, and do not open the radiator cap while the engine is hot. Allow the engine to cool for at least 30 minutes before inspecting.
+
+CATEGORY: diagnose
+Low coolant / antifreeze is a common cause of engine overheating. The coolant reservoir is a translucent plastic tank near the radiator. Check the MIN and MAX markings. If the level is below MIN, add a 50/50 mixture of distilled water and antifreeze. A coolant level that keeps dropping indicates a leak — inspect hoses, the radiator, and the water pump for cracks or wet spots.
+
+CATEGORY: diagnose
+Radiator problems can cause overheating and cooling system failure. Signs of radiator issues include: coolant leaking under the car (usually green, orange, or pink liquid), a sweet smell from the engine bay, visible rust or corrosion on the radiator fins, or the engine reaching operating temperature too slowly or too quickly. A blocked radiator can often be flushed; a physically damaged one must be replaced.
+
+CATEGORY: diagnose
+Strange knocking or ticking noise from the engine can indicate several issues: low engine oil level (check dipstick immediately), worn piston rings, a loose or failing timing chain, or exhaust manifold leaks. A knocking sound that worsens under acceleration often points to rod bearing failure — this is serious and requires immediate attention. A ticking sound on startup that fades away is usually caused by hydraulic lifters and is less critical but should be checked.
+
+CATEGORY: diagnose
+Brake problems are safety-critical and should never be ignored. Squealing brakes usually indicate worn brake pads — the wear indicator is making contact with the rotor. Grinding brakes mean the pads are completely worn through, causing metal-on-metal contact, which damages the rotors. A pulsating brake pedal suggests warped rotors. A soft or spongy pedal indicates air in the brake lines or a failing master cylinder. If the brake warning light is on, check the brake fluid level first.
+
+CATEGORY: diagnose
+Check Engine Light (CEL) or Malfunction Indicator Lamp (MIL) illuminated means the car's OBD-II system has detected a fault code. Common causes include: loose or faulty gas cap (causing evaporative emissions code P0442), failing oxygen sensor (P0136, P0141), catalytic converter efficiency below threshold (P0420), mass air flow sensor fault (P0100), or misfires (P0300–P0304). A blinking check engine light indicates an active misfire that can damage the catalytic converter — reduce speed and seek service immediately.
+
+CATEGORY: diagnose
+Transmission problems manifest as: difficulty shifting gears, slipping between gears (engine revs but car does not accelerate), delayed engagement when shifting from Park to Drive, unusual sounds during gear changes, or a burning smell. Low transmission fluid is the most common cause — check the level and condition (should be red/pink, not dark brown or burnt-smelling). Transmission fluid should be changed every 60,000–100,000 km.
+
+CATEGORY: diagnose
+Car vibration while driving can come from multiple sources. Vibration at highway speeds is often caused by unbalanced or damaged wheels/tires. Vibration during braking points to warped brake rotors. Vibration during acceleration may indicate worn CV joints or axle shaft issues. Vibration in the steering wheel at low speeds often means worn tie rod ends or ball joints. Identifying when the vibration occurs (speed, braking, turning) helps narrow down the cause.
+
+CATEGORY: diagnose
+Battery and electrical problems include: difficulty starting the engine (slow cranking), the battery warning light on the dashboard, dim headlights, or the car not starting at all. A car battery typically lasts 3–5 years. Test the battery voltage — a fully charged battery should read 12.6V; below 12.0V indicates a discharged or failing battery. Check the alternator output (should be 13.5–14.5V when running) to ensure it is charging the battery.
+
+CATEGORY: diagnose
+Oil pressure warning light (low oil pressure) is a critical warning — stop the engine as soon as it is safe to do so. Causes include: critically low oil level, a failing oil pump, blocked oil passages, or a faulty oil pressure sensor. Running the engine with low oil pressure can cause catastrophic engine damage within minutes. Check the oil level with the dipstick after the engine has been off for a few minutes.
