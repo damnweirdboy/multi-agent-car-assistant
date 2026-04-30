@@ -1,0 +1,35 @@
+CATEGORY: maintenance
+Oil change is one of the most important regular maintenance tasks. Conventional motor oil should be changed every 5,000–7,500 km or every 6 months, whichever comes first. Synthetic motor oil can last 10,000–15,000 km or up to 12 months. Always use the oil viscosity specified in your owner's manual (e.g., 5W-30, 0W-20). Along with the oil, always replace the oil filter at each oil change. Fresh oil keeps the engine lubricated, cool, and clean of metal particles and sludge.
+
+CATEGORY: maintenance
+Air filter replacement: The engine air filter should be inspected every 15,000 km and replaced every 20,000–30,000 km or once a year. A clogged air filter reduces engine power, fuel efficiency, and can cause rough idling. In dusty environments, replace more frequently. The cabin air filter (for the HVAC system) should be replaced every 15,000–20,000 km to maintain clean air inside the vehicle.
+
+CATEGORY: maintenance
+Tire rotation and inspection: Tires should be rotated every 10,000–12,000 km to ensure even wear across all four tires. Uneven wear shortens tire life and affects handling. Check tire pressure monthly — incorrect pressure reduces fuel efficiency and affects safety. The recommended tire pressure is printed on a sticker inside the driver's door jamb. Check tread depth with a tread depth gauge; replace tires when tread is below 1.6mm (legally) or 3mm (recommended for safety).
+
+CATEGORY: maintenance
+Brake inspection and service: Brake pads should be inspected every 20,000 km and typically last 30,000–70,000 km depending on driving style. Replace brake pads when thickness falls below 3mm. Brake rotors should be inspected at each pad change and replaced or resurfaced when worn. Brake fluid absorbs moisture over time and should be flushed every 2 years or 40,000 km. Use the brake fluid type specified in your owner's manual (DOT 3, DOT 4, or DOT 5.1).
+
+CATEGORY: maintenance
+Spark plug replacement: Standard copper spark plugs should be replaced every 30,000–45,000 km. Iridium or platinum spark plugs last 60,000–100,000 km. Worn spark plugs cause poor fuel economy, rough idling, difficulty starting, and misfires. Signs of failing spark plugs include the check engine light, engine stumbling, or noticeably reduced performance.
+
+CATEGORY: maintenance
+Coolant / antifreeze flush: The engine coolant should be flushed and replaced every 2 years or 40,000–50,000 km (for green coolant) or every 5 years / 150,000 km for long-life OAT/HOAT coolants. Old coolant becomes acidic and corrodes the cooling system components (radiator, water pump, hoses). Always use the coolant type and mixture ratio specified by the manufacturer.
+
+CATEGORY: maintenance
+Transmission fluid service: Automatic transmission fluid should be changed every 60,000–100,000 km or every 4 years. Manual transmission fluid should be replaced every 50,000–80,000 km. Using the correct fluid type is critical — using the wrong fluid can damage the transmission. Signs that fluid needs changing include dark/burnt-smelling fluid, delayed shifting, or slipping gears.
+
+CATEGORY: maintenance
+Battery maintenance: Car batteries typically last 3–5 years. Inspect battery terminals annually for corrosion (white/blue buildup) — clean with a mixture of baking soda and water. Ensure the battery hold-down is secure. In cold climates, battery capacity drops significantly — consider testing the battery before winter. A battery load test can determine if it still holds adequate charge.
+
+CATEGORY: maintenance
+Power steering fluid: Check power steering fluid level every 6 months. Low fluid causes heavy steering and whining noise when turning. Flush and replace power steering fluid every 50,000–80,000 km or if the fluid is dark and dirty. Many modern vehicles use electric power steering which requires no fluid maintenance.
+
+CATEGORY: maintenance
+Timing belt replacement: The timing belt is a critical component that keeps the engine's camshaft and crankshaft synchronized. It must be replaced at the manufacturer's specified interval — typically every 60,000–100,000 km or every 5–7 years. Failure to replace a worn timing belt can result in it snapping, which causes catastrophic engine damage (bent valves, damaged pistons). Many modern vehicles use a timing chain instead, which generally lasts the life of the engine.
+
+CATEGORY: maintenance
+Wiper blades: Replace windshield wiper blades every 12 months or when they start leaving streaks, skipping, or making noise. In climates with harsh winters, winter wiper blades are recommended from October to March. Keep the windshield washer fluid reservoir filled — use a proper washer fluid, not plain water, to prevent freezing and to effectively remove bugs and road grime.
+
+CATEGORY: maintenance
+Complete service schedule summary: Every 5,000–10,000 km — oil and filter change. Every 10,000–12,000 km — tire rotation, visual brake inspection. Every 20,000–30,000 km — air filter check, cabin air filter replacement. Every 30,000–50,000 km — coolant check, spark plug inspection. Every 60,000–100,000 km — timing belt, transmission fluid, brake fluid flush. Annual — battery test, wiper blades, tire pressure check, visual inspection of all fluids and hoses.
