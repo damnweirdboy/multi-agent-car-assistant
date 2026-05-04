@@ -2,6 +2,9 @@
 chromadb>=0.5.0
 sentence-transformers>=3.0.0
 
+# UI
+streamlit>=1.30.0
+
 # OpenAI (optional — only needed if OPENAI_API_KEY is set)
 openai>=1.0.0
 
